@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="280" viewBox="0 0 720 280" role="img" aria-labelledby="title desc">
+  <title id="title">Brown Dust 2 PT-BR</title>
+  <desc id="desc">Cartão técnico monocromático do projeto de localização</desc>
+  <defs>
+    <pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(14)">
+      <line x1="0" y1="0" x2="0" y2="10" stroke="#f0f3f6" stroke-width="2" opacity=".2"/>
+    </pattern>
+  </defs>
+  <rect width="720" height="280" fill="#0d1117"/>
+  <rect x="10" y="10" width="700" height="260" fill="none" stroke="#f0f3f6" stroke-width="3"/>
+  <path d="M15 14 L704 9 M11 267 L708 271 M16 10 L9 262 M709 18 L713 263" fill="none" stroke="#f0f3f6" stroke-width="1.4" opacity=".7"/>
+  <rect x="28" y="29" width="236" height="222" fill="url(#hatch)" stroke="#f0f3f6" stroke-width="2"/>
+  <path d="M42 52 H245 M43 211 H245 M55 38 L38 55 M247 225 L232 241" fill="none" stroke="#f0f3f6" stroke-width="3"/>
+  <text x="48" y="126" fill="#f0f3f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="72" font-weight="800" letter-spacing="-5">BD2</text>
+  <text x="51" y="174" fill="#f0f3f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="36" font-weight="700">PT-BR</text>
+  <rect x="50" y="190" width="126" height="31" fill="#f0f3f6"/>
+  <text x="63" y="212" fill="#0d1117" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" font-weight="700">BUILD 0.9.0</text>
+  <text x="296" y="62" fill="#f0f3f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="700">LOCALIZAÇÃO COMUNITÁRIA</text>
+  <line x1="296" y1="78" x2="683" y2="78" stroke="#f0f3f6" stroke-width="3"/>
+  <text x="296" y="110" fill="#f0f3f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">STATUS</text>
+  <rect x="375" y="91" width="218" height="27" fill="none" stroke="#f0f3f6" stroke-width="2"/>
+  <text x="388" y="110" fill="#f0f3f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="700">VALIDAÇÃO PRIVADA</text>
+  <text x="296" y="151" fill="#f0f3f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">223.731 ENTRADAS</text>
+  <text x="508" y="151" fill="#f0f3f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">293 TÍTULOS</text>
+  <g fill="none" stroke="#f0f3f6" stroke-width="2">
+    <rect x="296" y="177" width="76" height="35"/>
+    <rect x="399" y="177" width="76" height="35"/>
+    <rect x="502" y="177" width="76" height="35"/>
+    <rect x="605" y="177" width="76" height="35"/>
+    <path d="M372 194 H399 M475 194 H502 M578 194 H605"/>
+    <path d="M387 187 l12 7 -12 7 M490 187 l12 7 -12 7 M593 187 l12 7 -12 7"/>
+  </g>
+  <text x="305" y="200" fill="#f0f3f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">TEXTO</text>
+  <text x="408" y="200" fill="#f0f3f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">REVISÃO</text>
+  <text x="510" y="200" fill="#f0f3f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">AUDITORIA</text>
+  <text x="617" y="200" fill="#f0f3f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">TESTE</text>
+  <path d="M296 235 C386 229 472 242 558 234 S641 239 682 233" fill="none" stroke="#f0f3f6" stroke-width="2"/>
+</svg>
