@@ -32,20 +32,22 @@
 
 <table>
   <tr>
-    <td width="300" align="center">
+    <td width="240" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/bd2-project-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/bd2-project-light.svg" />
-        <img src="./assets/bd2-project-light.svg" alt="Identidade técnica do projeto Brown Dust 2 PT-BR" width="280" />
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/bd2-icon-dark-v096.jpg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/bd2-icon-light-v096.jpg" />
+        <img src="./assets/bd2-icon-light-v096.jpg" alt="Ícone oficial de Brown Dust 2 reinterpretado em desenho monocromático para o projeto PT-BR" width="210" />
       </picture>
     </td>
     <td>
       <strong>BROWN DUST 2 PT-BR</strong><br />
       Localização comunitária integral de Brown Dust 2 para português brasileiro.<br /><br />
-      <code>v0.9.0</code> <code>VALIDAÇÃO PRIVADA</code><br /><br />
-      <strong>223.731</strong> entradas efetivas<br />
+      <code>v0.9.6</code> <code>VALIDAÇÃO PRIVADA</code><br />
+      Compatibilidade: <code>v2.31.8(FHD-046:137)</code><br /><br />
+      <strong>223.743</strong> entradas efetivas<br />
+      <strong>24.873</strong> entradas revisadas editorialmente<br />
       <strong>293</strong> títulos musicais preservados<br />
-      Auditoria estrutural e testes de integração concluídos para a versão atual.
+      Auditoria estrutural zerada, Crônicas e Histórias Cotidianas cobertas, crash do guia corrigido e desempenho validado no cliente atual.
     </td>
   </tr>
 </table>
