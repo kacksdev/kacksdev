@@ -124,14 +124,14 @@ Cada versão precisa manter placeholders, tags, variáveis, quebras funcionais, 
 
 ## 06 / AUTORIA E PUBLICAÇÃO
 
-**Kacks cria, dirige, valida e mantém os projetos.** OpenAI Codex é uma ferramenta auxiliar usada para acelerar tradução, engenharia, automação e documentação. No Brown Dust 2, Codex produziu as traduções PT-BR do catálogo sob direção do projeto; no NIKKE, nenhum texto foi traduzido ainda e a ferramenta auxiliou somente a preparação técnica e documental.
+**Eu crio, dirijo, valido e mantenho os projetos.** O OpenAI Codex integra o fluxo como ferramenta auxiliar para acelerar tradução, engenharia, automação e documentação. No Brown Dust 2, o Codex produziu as traduções PT-BR do catálogo sob minha direção; no NIKKE, nenhum texto foi traduzido ainda e a ferramenta auxiliou somente na preparação técnica e documental.
 
 - Projetos comunitários, gratuitos e sem paywall.
 - Documentação e progresso públicos desde a preparação de cada mod.
 - Implementações, catálogos e pacotes privados até estarem estáveis e prontos para jogadores reais.
 - O botão de download dos repositórios públicos entrega somente documentação e imagens enquanto não houver lançamento.
 - Sem afiliação oficial com as desenvolvedoras ou publicadoras dos jogos.
-- A direção, os testes, o padrão de qualidade e a decisão de publicação pertencem a Kacks.
+- A direção, os testes, o padrão de qualidade e a decisão de publicação permanecem sob minha responsabilidade.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/ink-rule-dark.svg" />
