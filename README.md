@@ -64,14 +64,14 @@
     </td>
     <td>
       <strong><a href="https://github.com/kacksdev/nikke-ptbr">NIKKE PT-BR / PC</a></strong><br />
-      <code>FASE 0</code> <code>PESQUISA PÚBLICA</code> <code>SEM MOD</code><br /><br />
-      Viabilidade técnica condicional: Unity, Addressables e contêiner próprio <code>NKDB</code> identificados. Desenvolvimento prático bloqueado pelas restrições contratuais atuais até autorização ou esclarecimento oficial.<br /><br />
-      <a href="https://github.com/kacksdev/nikke-ptbr"><strong>CONSULTAR PESQUISA E FERRAMENTAS →</strong></a>
+      <code>FASE 0</code> <code>PREPARAÇÃO TÉCNICA</code> <code>SEM BUILD</code><br /><br />
+      Mod de localização PT-BR planejado com plugin Unity em runtime, catálogo externo, cobertura de fontes, auditorias estruturais e testes completos dentro do cliente de PC.<br /><br />
+      <a href="https://github.com/kacksdev/nikke-ptbr"><strong>ACOMPANHAR PROJETO E FERRAMENTAS →</strong></a>
     </td>
   </tr>
 </table>
 
-> Os dois repositórios públicos são vitrines de progresso e pesquisa. Eles não contêm DLLs, catálogos, instaladores nem pacotes jogáveis: no Brown Dust 2 a implementação continua privada; no NIKKE o mod ainda não foi iniciado.
+> Os dois repositórios públicos acompanham o progresso dos mods. Eles não contêm DLLs, catálogos, instaladores nem pacotes jogáveis: no Brown Dust 2 a implementação continua privada; no NIKKE o desenvolvimento ainda está na preparação técnica.
 
 ## 02 / ESCOPO DO TRABALHO
 
@@ -99,7 +99,7 @@ Cada versão precisa manter placeholders, tags, variáveis, quebras funcionais, 
 ## 04 / FERRAMENTAS
 
 <strong>DESENVOLVIMENTO</strong><br />
-<code>C#</code> <code>.NET</code> <code>Python</code> <code>PowerShell</code> <code>Git</code> <code>GitHub Actions</code>
+<code>C#</code> <code>.NET</code> <code>Python</code> <code>PowerShell</code> <code>Git</code>
 
 <strong>RUNTIME E INTEGRAÇÃO UNITY</strong><br />
 <code>Unity</code> <code>BepInEx</code> <code>HarmonyX</code> <code>IL2CPP</code> <code>Il2CppInterop</code> <code>Cpp2IL</code>
@@ -110,7 +110,7 @@ Cada versão precisa manter placeholders, tags, variáveis, quebras funcionais, 
 <strong>VALIDAÇÃO</strong><br />
 <code>Auditoria estrutural</code> <code>Testes de regressão</code> <code>Hashing</code> <code>Logs</code> <code>QA in-game</code>
 
-> A pilha definitiva é validada separadamente em cada jogo. No NIKKE, AssetRipper, UABEA, UnityPy, BepInEx, Cpp2IL e Il2CppInterop são apenas candidatos documentados; nenhuma ferramenta invasiva será testada sem autorização compatível com o contrato do jogo.
+> A pilha é validada separadamente em cada jogo. No NIKKE, BepInEx, HarmonyX, AssetRipper, UABEA e UnityPy compõem a arquitetura planejada; Cpp2IL e Il2CppInterop entram somente se o backend confirmado for IL2CPP.
 
 ## 05 / PADRÃO DE QUALIDADE
 
@@ -122,15 +122,16 @@ Cada versão precisa manter placeholders, tags, variáveis, quebras funcionais, 
 | **Integridade técnica** | Nenhuma tradução pode quebrar placeholders, marcações, layout, carregamento ou atualização do cliente. |
 | **Publicação responsável** | Uma versão pública exige instalação clara, pacote verificável, documentação e testes suficientes. |
 
-## 06 / PUBLICAÇÃO
+## 06 / AUTORIA E PUBLICAÇÃO
+
+**Kacks cria, dirige, valida e mantém os projetos.** OpenAI Codex é uma ferramenta auxiliar usada para acelerar tradução, engenharia, automação e documentação. No Brown Dust 2, Codex produziu as traduções PT-BR do catálogo sob direção do projeto; no NIKKE, nenhum texto foi traduzido ainda e a ferramenta auxiliou somente a preparação técnica e documental.
 
 - Projetos comunitários, gratuitos e sem paywall.
-- Documentação e progresso públicos desde a fase de pesquisa.
-- Implementações, catálogos e pacotes privados até estarem autorizados, seguros e prontos para jogadores reais.
+- Documentação e progresso públicos desde a preparação de cada mod.
+- Implementações, catálogos e pacotes privados até estarem estáveis e prontos para jogadores reais.
 - O botão de download dos repositórios públicos entrega somente documentação e imagens enquanto não houver lançamento.
 - Sem afiliação oficial com as desenvolvedoras ou publicadoras dos jogos.
-- Uso de **OpenAI Codex** declarado publicamente como ferramenta de tradução, engenharia e auditoria assistidas por IA.
-- Contato com cada empresa no momento exigido pelo risco do projeto: no Brown Dust 2 após qualidade adequada; no NIKKE antes de qualquer desenvolvimento invasivo.
+- A direção, os testes, o padrão de qualidade e a decisão de publicação pertencem a Kacks.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/ink-rule-dark.svg" />
