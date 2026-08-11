@@ -124,8 +124,6 @@ Cada versão precisa manter placeholders, tags, variáveis, quebras funcionais, 
 
 ## 06 / AUTORIA E PUBLICAÇÃO
 
-**Eu crio, dirijo, valido e mantenho os projetos.** O OpenAI Codex integra o fluxo como ferramenta auxiliar para acelerar tradução, engenharia, automação e documentação. No Brown Dust 2, o Codex produziu as traduções PT-BR do catálogo sob minha direção; no NIKKE, nenhum texto foi traduzido ainda e a ferramenta auxiliou somente na preparação técnica e documental.
-
 - Projetos comunitários, gratuitos e sem paywall.
 - Documentação e progresso públicos desde a preparação de cada mod.
 - Implementações, catálogos e pacotes privados até estarem estáveis e prontos para jogadores reais.
