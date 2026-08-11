@@ -1,85 +1,124 @@
-<div align="center">
-  <img src="./assets/kacks-banner.png" alt="Kacks em um observatório celestial inspirado em gachas" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/kacks-workbench-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/kacks-workbench-light.png" />
+  <img src="./assets/kacks-workbench-light.png" alt="Mesa de produção desenhada a tinta, com documentos de localização, interfaces, código e anotações técnicas" width="100%" />
+</picture>
 
-<h1 align="center">✦ Kacks ✦</h1>
+<h1 align="center">KACKS / PROJECTS</h1>
 
 <p align="center">
-  <strong>Criando pontes entre gachas e jogadores brasileiros.</strong><br />
-  Mods, traduções PT-BR, ferramentas e guias — gratuitos, abertos e feitos com cuidado.
+  <strong>LOCALIZAÇÃO DE JOGOS / ENGENHARIA DE MODS / CONTROLE DE QUALIDADE</strong>
 </p>
 
 <p align="center">
-  <img alt="Brasil" src="https://img.shields.io/badge/BRASIL-PT--BR-23C55E?style=for-the-badge" />
-  <img alt="Gacha" src="https://img.shields.io/badge/GACHA-LOCALIZATION-8B5CF6?style=for-the-badge" />
-  <img alt="Gratuito" src="https://img.shields.io/badge/GRATUITO-SEMPRE-EC4899?style=for-the-badge" />
-  <img alt="Open source" src="https://img.shields.io/badge/OPEN-SOURCE-22D3EE?style=for-the-badge" />
+  Projetos comunitários em português brasileiro, construídos com contexto, consistência e validação dentro do jogo.
 </p>
 
 <p align="center">
-  <sub>Community-made Brazilian Portuguese localizations and tools for gacha games.</sub>
+  <code>PT-BR</code>&nbsp;&nbsp;
+  <code>GACHA</code>&nbsp;&nbsp;
+  <code>MODDING</code>&nbsp;&nbsp;
+  <code>GRATUITO</code>&nbsp;&nbsp;
+  <code>COMUNIDADE</code>
 </p>
 
-<img src="./assets/kacks-divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ink-rule-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ink-rule-light.svg" />
+  <img src="./assets/ink-rule-light.svg" alt="" width="100%" />
+</picture>
 
-## 🌙 Sobre mim
-
-Eu transformo meu carinho por **gachas, anime e jogos asiáticos** em projetos que ajudam mais pessoas a aproveitar histórias que antes estavam presas atrás da barreira do idioma.
-
-- 🎮 **Foco:** gachas e jogos com estética anime.
-- 💬 **Missão:** tornar histórias acessíveis em português brasileiro sem apagar o tom original.
-- 🧩 **Método:** tradução contextual, revisão editorial, automação, auditoria e testes reais.
-- 💜 **Compromisso:** projetos comunitários gratuitos, sem paywall e sem monetização.
-
-## ✨ Projeto em destaque
+## 01 / PROJETOS
 
 <table>
   <tr>
-    <td width="132" align="center">
-      <img src="./assets/kacks-avatar.png" alt="Mascote celestial de Kacks" width="104" />
+    <td width="300" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/bd2-project-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/bd2-project-light.svg" />
+        <img src="./assets/bd2-project-light.svg" alt="Identidade técnica do projeto Brown Dust 2 PT-BR" width="280" />
+      </picture>
     </td>
     <td>
-      <strong>Brown Dust 2 PT-BR</strong><br />
-      Tradução comunitária integral de Brown Dust 2 para português brasileiro.<br /><br />
-      <code>v0.9.0</code> em validação privada · <strong>223.731</strong> entradas efetivas · <strong>293</strong> títulos musicais preservados.<br />
-      O lançamento público acontecerá somente quando a experiência estiver pronta para a comunidade.
+      <strong>BROWN DUST 2 PT-BR</strong><br />
+      Localização comunitária integral de Brown Dust 2 para português brasileiro.<br /><br />
+      <code>v0.9.0</code> <code>VALIDAÇÃO PRIVADA</code><br /><br />
+      <strong>223.731</strong> entradas efetivas<br />
+      <strong>293</strong> títulos musicais preservados<br />
+      Auditoria estrutural e testes de integração concluídos para a versão atual.
     </td>
   </tr>
 </table>
 
-## 🪄 O que você encontrará por aqui
+| Próximo projeto | Estado atual | Direção |
+| --- | --- | --- |
+| **NIKKE PT-BR** | Pesquisa técnica e planejamento | Investigar extração, runtime, fontes, limites de interface e estratégia de instalação antes da tradução. |
 
-| Universo | O que eu preparo |
+> Os repositórios permanecem privados durante o desenvolvimento. O código, a documentação e os pacotes serão publicados quando cada projeto estiver seguro e pronto para uso comunitário.
+
+## 02 / ESCOPO DO TRABALHO
+
+| Área | Entrega |
 | --- | --- |
-| 🌐 **Localização PT-BR** | Traduções contextuais que respeitam história, personagens e identidade da obra. |
-| 🛠️ **Mods e ferramentas** | Instalação simples, validações reproduzíveis e manutenção responsável. |
-| 📖 **Guias claros** | Documentação direta para quem só quer baixar, instalar e jogar. |
-| 🔭 **Próximos mundos** | Novos gachas e projetos para aproximar jogos asiáticos da comunidade brasileira. |
+| **Localização** | Tradução contextual de narrativa, interface, tutoriais e sistemas, com glossário e terminologia consistentes. |
+| **Engenharia** | Extração de conteúdo, integração em runtime, carregamento seguro, instaladores e processos reproduzíveis. |
+| **Qualidade** | Auditorias automáticas, revisão editorial, controle de regressões e testes reais dentro do cliente. |
+| **Documentação** | Instruções objetivas para instalação, atualização, diagnóstico e remoção do mod. |
 
-## 🧰 Ferramentas do laboratório
-
-<p>
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-111827?style=flat-square&logo=json&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-</p>
-
-## 💎 Princípios
-
-> **Acessibilidade antes de tudo.** Mais jogadores entendendo a história é bom para a comunidade e para o próprio jogo.
-
-> **Contexto importa.** Traduzir não é trocar palavras: é preservar intenção, personalidade e emoção.
-
-> **Livre de verdade.** O trabalho é feito para ser compartilhado gratuitamente e aprimorado com transparência.
-
-> **Respeito à obra.** Nomes próprios, músicas e elementos de identidade permanecem no original quando essa é a melhor escolha.
-
-<img src="./assets/kacks-divider.svg" alt="" width="100%" />
+## 03 / PROCESSO
 
 <p align="center">
-  <strong>✨ Um pull de cada vez, uma barreira a menos. ✨</strong><br />
-  <sub>Feito no Brasil para quem ama jogar e acompanhar cada história.</sub>
+  <code>EXTRAIR</code> →
+  <code>MAPEAR</code> →
+  <code>LOCALIZAR</code> →
+  <code>REVISAR</code> →
+  <code>AUDITAR</code> →
+  <code>TESTAR</code> →
+  <code>EMPACOTAR</code>
+</p>
+
+Cada versão precisa manter placeholders, tags, variáveis, quebras funcionais, nomes próprios e elementos de identidade da obra. O trabalho editorial e o trabalho técnico avançam juntos: uma tradução só está pronta quando também funciona corretamente no jogo.
+
+## 04 / FERRAMENTAS
+
+<strong>DESENVOLVIMENTO</strong><br />
+<code>C#</code> <code>.NET</code> <code>Python</code> <code>PowerShell</code> <code>Git</code> <code>GitHub Actions</code>
+
+<strong>RUNTIME E INTEGRAÇÃO UNITY</strong><br />
+<code>Unity</code> <code>BepInEx</code> <code>HarmonyX</code> <code>IL2CPP</code> <code>Il2CppInterop</code> <code>Cpp2IL</code>
+
+<strong>CONTEÚDO E DADOS</strong><br />
+<code>JSON</code> <code>CSV</code> <code>YAML</code> <code>Regex</code> <code>AssetStudio</code> <code>UABEA</code>
+
+<strong>VALIDAÇÃO</strong><br />
+<code>Auditoria estrutural</code> <code>Testes de regressão</code> <code>Hashing</code> <code>Logs</code> <code>QA in-game</code>
+
+> A pilha definitiva é validada separadamente em cada jogo. Ferramentas previstas para projetos futuros só entram no processo depois de testes de compatibilidade e segurança.
+
+## 05 / PADRÃO DE QUALIDADE
+
+| Regra | Critério |
+| --- | --- |
+| **Contexto antes da literalidade** | Intenção, personalidade e emoção têm prioridade sobre substituições palavra por palavra. |
+| **Consistência verificável** | Glossário, nomes, títulos, pontuação e escolhas recorrentes precisam permanecer uniformes. |
+| **Identidade preservada** | Músicas, nomes próprios e termos de marca ficam no original quando traduzi-los prejudicaria a obra. |
+| **Integridade técnica** | Nenhuma tradução pode quebrar placeholders, marcações, layout, carregamento ou atualização do cliente. |
+| **Publicação responsável** | Uma versão pública exige instalação clara, pacote verificável, documentação e testes suficientes. |
+
+## 06 / PUBLICAÇÃO
+
+- Projetos comunitários, gratuitos e sem paywall.
+- Desenvolvimento privado até que o pacote esteja pronto para jogadores reais.
+- Código e documentação públicos nas versões destinadas à comunidade.
+- Sem afiliação oficial com as desenvolvedoras ou publicadoras dos jogos.
+- Contato com as empresas somente quando o trabalho alcançar qualidade adequada para avaliação.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ink-rule-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ink-rule-light.svg" />
+  <img src="./assets/ink-rule-light.svg" alt="" width="100%" />
+</picture>
+
+<p align="center">
+  <code>KACKS / COMMUNITY LOCALIZATION / BRASIL</code>
 </p>
