@@ -1,13 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/kacks-workbench-dark.png" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/kacks-workbench-light.png" />
-  <img src="./assets/kacks-workbench-light.png" alt="Mesa de produção desenhada a tinta, com documentos de localização, interfaces, código e anotações técnicas" width="100%" />
+  <img src="./assets/kacks-workbench-light.png" alt="Mesa de produção desenhada a tinta, com documentos de tradução, interfaces, código e anotações técnicas" width="100%" />
 </picture>
 
 <h1 align="center">KACKS / PROJECTS</h1>
 
 <p align="center">
-  <strong>LOCALIZAÇÃO DE JOGOS / ENGENHARIA DE MODS / CONTROLE DE QUALIDADE</strong>
+  <strong>TRADUÇÃO DE JOGOS / ENGENHARIA DE MODS / CONTROLE DE QUALIDADE</strong>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
     </td>
     <td>
       <strong><a href="https://github.com/kacksdev/browndust2-ptbr">BROWN DUST 2 PT-BR / PC</a></strong><br />
-      Localização comunitária integral de Brown Dust 2 para português brasileiro.<br /><br />
+      Tradução comunitária integral de Brown Dust 2 para português brasileiro.<br /><br />
       <code>v0.9.6</code> <code>FASE 4/6</code> <code>VALIDAÇÃO PRIVADA</code><br />
       Compatibilidade: <code>v2.31.8(FHD-046:137)</code><br /><br />
       <strong>223.743</strong> entradas efetivas<br />
@@ -65,7 +65,7 @@
     <td>
       <strong><a href="https://github.com/kacksdev/nikke-ptbr">NIKKE PT-BR / PC</a></strong><br />
       <code>FASE 0</code> <code>PREPARAÇÃO TÉCNICA</code> <code>SEM BUILD</code><br /><br />
-      Mod de localização PT-BR planejado com plugin Unity em runtime, catálogo externo, cobertura de fontes, auditorias estruturais e testes completos dentro do cliente de PC.<br /><br />
+      Mod de tradução PT-BR planejado com plugin Unity em runtime, catálogo externo, cobertura de fontes, auditorias estruturais e testes completos dentro do cliente de PC.<br /><br />
       <a href="https://github.com/kacksdev/nikke-ptbr"><strong>ACOMPANHAR PROJETO E FERRAMENTAS →</strong></a>
     </td>
   </tr>
@@ -77,7 +77,7 @@
 
 | Área | Entrega |
 | --- | --- |
-| **Localização** | Tradução contextual de narrativa, interface, tutoriais e sistemas, com glossário e terminologia consistentes. |
+| **Tradução** | Tradução contextual de narrativa, interface, tutoriais e sistemas, com glossário e terminologia consistentes. |
 | **Engenharia** | Extração de conteúdo, integração em runtime, carregamento seguro, instaladores e processos reproduzíveis. |
 | **Qualidade** | Auditorias automáticas, revisão editorial, controle de regressões e testes reais dentro do cliente. |
 | **Documentação** | Instruções objetivas para instalação, atualização, diagnóstico e remoção do mod. |
@@ -87,7 +87,7 @@
 <p align="center">
   <code>EXTRAIR</code> →
   <code>MAPEAR</code> →
-  <code>LOCALIZAR</code> →
+  <code>TRADUZIR</code> →
   <code>REVISAR</code> →
   <code>AUDITAR</code> →
   <code>TESTAR</code> →
@@ -138,5 +138,5 @@ Cada versão precisa manter placeholders, tags, variáveis, quebras funcionais, 
 </picture>
 
 <p align="center">
-  <code>KACKS / COMMUNITY LOCALIZATION / BRASIL</code>
+  <code>KACKS / COMMUNITY TRANSLATION / BRASIL</code>
 </p>
