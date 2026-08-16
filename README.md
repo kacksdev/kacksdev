@@ -45,10 +45,10 @@
       <code>v0.1.0-dev</code> <code>FASE 2/6</code> <code>SEM BUILD PÚBLICA</code><br />
       Cliente analisado: <code>150.6.9</code><br /><br />
       <strong>427.345</strong> unidades traduzíveis únicas catalogadas<br />
-      <strong>941</strong> unidades traduzidas em <strong>11</strong> lotes<br />
-      <strong>3.115</strong> ocorrências reconstruídas em <strong>27</strong> contêineres<br />
+      <strong>1.141</strong> unidades traduzidas em <strong>13</strong> lotes<br />
+      <strong>3.751</strong> ocorrências cobertas; <strong>3.730</strong> substituições validadas em <strong>28</strong> contêineres<br />
       <strong>10/10</strong> testes automáticos aprovados<br />
-      Cobertura atual: <strong>0,22%</strong>. O fluxo interno de dados foi confirmado; instalação e restauração ainda estão em validação privada.<br /><br />
+      Cobertura atual: <strong>0,27%</strong>. O fluxo interno de dados foi confirmado; instalação e restauração ainda estão em validação privada.<br /><br />
       <a href="https://github.com/kacksdev/nikke-ptbr"><strong>ACOMPANHAR O DESENVOLVIMENTO →</strong></a>
     </td>
   </tr>
