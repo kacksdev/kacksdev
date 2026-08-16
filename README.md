@@ -42,7 +42,7 @@
     <td>
       <strong><a href="https://github.com/kacksdev/nikke-ptbr">GODDESS OF VICTORY: NIKKE PT-BR / PC</a></strong><br />
       Tradução comunitária em desenvolvimento ativo.<br /><br />
-      <code>v0.1.0-dev</code> <code>FASE 2/6</code> <code>SEM BUILD PÚBLICA</code><br />
+      <code>v0.1.0-dev</code><br />
       Cliente analisado: <code>150.6.9</code><br /><br />
       <strong>427.345</strong> unidades traduzíveis únicas catalogadas<br />
       <strong>1.141</strong> unidades traduzidas em <strong>13</strong> lotes<br />
@@ -65,7 +65,7 @@
     </td>
     <td>
       <strong><a href="https://github.com/kacksdev/browndust2-ptbr">BROWN DUST 2 PT-BR / PC</a></strong><br />
-      <code>v0.1.0 BETA</code> <code>CLIENTE 2.32.7</code> <code>BUILD PÚBLICA</code><br /><br />
+      <code>v0.1.0 beta</code><br /><br />
       <strong>223.743</strong> entradas efetivas, <strong>24.873</strong> com tratamento editorial explícito, <strong>293</strong> títulos musicais preservados e zero falha estrutural detectada. Pacote com instalação, backup e remoção assistidos.<br /><br />
       <a href="https://github.com/kacksdev/browndust2-ptbr/releases/tag/v0.1.0-beta"><strong>BAIXAR A VERSÃO ATUAL →</strong></a>
     </td>
@@ -83,7 +83,7 @@
     </td>
     <td>
       <strong><a href="https://github.com/kacksdev/arknights-ptbr">ARKNIGHTS PT-BR / PC + ANDROID</a></strong><br />
-      <code>v0.0.1-dev</code> <code>FASE 0/6</code> <code>SEM BUILD</code><br /><br />
+      <code>v0.0.1-dev</code><br /><br />
       Projeto em preparação. A implementação começará no PC para confirmar formatos, atualização e reversibilidade; a adaptação para Android virá depois. Nenhum catálogo foi extraído e nenhuma tradução foi produzida ainda.<br /><br />
       <a href="https://github.com/kacksdev/arknights-ptbr"><strong>ACOMPANHAR A PREPARAÇÃO →</strong></a>
     </td>
