@@ -65,9 +65,9 @@
     </td>
     <td>
       <strong><a href="https://github.com/kacksdev/browndust2-ptbr">BROWN DUST 2 PT-BR / PC</a></strong><br />
-      <code>v0.1.0 beta</code><br /><br />
-      <strong>223.743</strong> entradas efetivas, <strong>24.873</strong> com tratamento editorial explícito, <strong>293</strong> títulos musicais preservados e zero falha estrutural detectada. Pacote com instalação, backup e remoção assistidos.<br /><br />
-      <a href="https://github.com/kacksdev/browndust2-ptbr/releases/tag/v0.1.0-beta"><strong>BAIXAR A VERSÃO ATUAL →</strong></a>
+      <code>v0.1.1 beta</code>&nbsp;&nbsp;<code>CLIENTE 2.32.10</code><br /><br />
+      <strong>223.743</strong> entradas efetivas, <strong>24.873</strong> com tratamento editorial explícito, <strong>293</strong> títulos musicais preservados e zero falha estrutural detectada. Instalador gráfico único validado em cliente limpo, com detecção automática e manual, progresso, verificação, reparo, atualização, remoção e rollback.<br /><br />
+      <a href="https://github.com/kacksdev/browndust2-ptbr"><strong>VER O PROJETO →</strong></a>
     </td>
   </tr>
 </table>
@@ -90,7 +90,7 @@
   </tr>
 </table>
 
-> Cada cartão informa o estado real do respectivo projeto. Brown Dust 2 possui beta pública; NIKKE está em desenvolvimento privado sem pacote instalável; Arknights está em preparação. O botão `Code → Download ZIP` só substitui uma Release quando o próprio repositório disser explicitamente que existe uma build.
+> Cada cartão informa o estado real do respectivo projeto. Builds disponíveis são publicadas exclusivamente em Releases. O botão `Code → Download ZIP` baixa o conteúdo do repositório e não substitui o arquivo indicado em uma Release.
 
 ## 02 / TRADUÇÃO E REVISÃO
 
@@ -136,7 +136,9 @@ O **OpenAI Codex** integra o fluxo como ferramenta auxiliar para produzir tradu�
 - Projetos comunitários, gratuitos e sem paywall.
 - Nenhuma afiliação oficial com desenvolvedoras ou publicadoras.
 - Nenhum arquivo proprietário dos jogos é distribuído nos repositórios.
-- Builds são publicadas em Releases com versão, hashes, instalação, remoção e limitações.
+- Builds para Windows usam um instalador gráfico único com detecção automática e manual, progresso, detalhes técnicos opcionais, backup, rollback, reparo, verificação, atualização e remoção.
+- Nenhuma build é liberada sem matriz automatizada e ciclo completo do arquivo final em cliente limpo: instalar, verificar, iniciar o jogo e remover.
+- Releases informam versão, cliente validado, hashes, instalação, remoção e limitações.
 - Notas de mudança ficam nas Releases; páginas principais mostram o estado geral.
 
 <picture>
