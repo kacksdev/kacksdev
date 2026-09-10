@@ -34,22 +34,16 @@
   <tr>
     <td width="240" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/nikke-icon-dark.jpg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/nikke-icon-light.jpg" />
-        <img src="./assets/nikke-icon-light.jpg" alt="Ícone monocromático do projeto NIKKE PT-BR" width="210" />
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/bd2-icon-dark.jpg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/bd2-icon-light.jpg" />
+        <img src="./assets/bd2-icon-light.jpg" alt="Ícone monocromático do projeto Brown Dust 2 PT-BR" width="210" />
       </picture>
     </td>
     <td>
-      <strong><a href="https://github.com/kacksdev/nikke-ptbr">GODDESS OF VICTORY: NIKKE PT-BR / PC</a></strong><br />
-      Tradução comunitária em desenvolvimento ativo.<br /><br />
-      <code>v0.1.0-dev</code><br />
-      Cliente analisado: <code>150.6.9</code><br /><br />
-      <strong>427.345</strong> unidades traduzíveis únicas catalogadas<br />
-      <strong>1.141</strong> unidades traduzidas em <strong>13</strong> lotes<br />
-      <strong>3.751</strong> ocorrências cobertas; <strong>3.730</strong> substituições validadas em <strong>28</strong> contêineres<br />
-      <strong>10/10</strong> testes automáticos aprovados<br />
-      Cobertura atual: <strong>0,27%</strong>. O fluxo interno de dados foi confirmado; instalação e restauração ainda estão em validação privada.<br /><br />
-      <a href="https://github.com/kacksdev/nikke-ptbr"><strong>ACOMPANHAR O DESENVOLVIMENTO →</strong></a>
+      <strong><a href="https://github.com/kacksdev/browndust2-ptbr">BROWN DUST 2 PT-BR / PC</a></strong><br />
+      <code>v0.1.1 beta</code>&nbsp;&nbsp;<code>CLIENTE 2.32.10</code><br /><br />
+      <strong>223.743</strong> entradas efetivas, <strong>24.873</strong> com tratamento editorial explícito, <strong>293</strong> títulos musicais preservados e zero falha estrutural detectada. Instalador gráfico único validado em cliente limpo, com detecção automática e manual, progresso, verificação, reparo, atualização, remoção e rollback.<br /><br />
+      <a href="https://github.com/kacksdev/browndust2-ptbr"><strong>VER O PROJETO →</strong></a>
     </td>
   </tr>
 </table>
@@ -58,16 +52,16 @@
   <tr>
     <td width="145" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/bd2-icon-dark.jpg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/bd2-icon-light.jpg" />
-        <img src="./assets/bd2-icon-light.jpg" alt="Ícone monocromático do projeto Brown Dust 2 PT-BR" width="105" />
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/nikke-icon-dark.jpg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/nikke-icon-light.jpg" />
+        <img src="./assets/nikke-icon-light.jpg" alt="Ícone monocromático do projeto NIKKE PT-BR" width="105" />
       </picture>
     </td>
     <td>
-      <strong><a href="https://github.com/kacksdev/browndust2-ptbr">BROWN DUST 2 PT-BR / PC</a></strong><br />
-      <code>v0.1.1 beta</code>&nbsp;&nbsp;<code>CLIENTE 2.32.10</code><br /><br />
-      <strong>223.743</strong> entradas efetivas, <strong>24.873</strong> com tratamento editorial explícito, <strong>293</strong> títulos musicais preservados e zero falha estrutural detectada. Instalador gráfico único validado em cliente limpo, com detecção automática e manual, progresso, verificação, reparo, atualização, remoção e rollback.<br /><br />
-      <a href="https://github.com/kacksdev/browndust2-ptbr"><strong>VER O PROJETO →</strong></a>
+      <strong><a href="https://github.com/kacksdev/nikke-ptbr">GODDESS OF VICTORY: NIKKE PT-BR / PC</a></strong><br />
+      <code>v0.1.0 beta</code><br /><br />
+      Cliente validado: <strong>151.8.5</strong>. Base PT-BR para <strong>429.498 / 429.498</strong> unidades únicas, <strong>536.489</strong> ocorrências em <strong>34</strong> tabelas e <strong>2.743</strong> modelos formatados. Instalador gráfico com instalação, verificação, reparo, remoção e rollback aprovados; pacote em <strong>18/18</strong>, executável final em <strong>11/11</strong> e suíte atual em <strong>116/116</strong>. Beta funcional de ampla cobertura, ainda distinta de revisão editorial integral.<br /><br />
+      <a href="https://github.com/kacksdev/nikke-ptbr"><strong>VER O PROJETO →</strong></a>
     </td>
   </tr>
 </table>
@@ -117,13 +111,13 @@ Uma versão desconhecida do cliente não deve receber arquivos antigos às cegas
 ## 04 / FERRAMENTAS
 
 <strong>DESENVOLVIMENTO E AUTOMAÇÃO</strong><br />
-<code>C#</code> <code>.NET</code> <code>Python</code> <code>PowerShell</code> <code>Git</code>
+<code>C</code> <code>C#</code> <code>.NET</code> <code>.NET Framework</code> <code>WPF</code> <code>Python</code> <code>PowerShell</code> <code>Git</code>
 
 <strong>JOGOS, DADOS E MODDING</strong><br />
-<code>Unity</code> <code>IL2CPP</code> <code>BepInEx</code> <code>HarmonyX</code> <code>JSON/JSONL</code> <code>CSV</code> <code>SQLite</code> <code>Formatos binários</code>
+<code>Unity</code> <code>IL2CPP</code> <code>Win32 / WinHTTP</code> <code>MinHook</code> <code>BepInEx</code> <code>HarmonyX</code> <code>SQLite</code> <code>JSON / JSONL</code> <code>CSV</code> <code>Formatos binários</code>
 
 <strong>VALIDAÇÃO</strong><br />
-<code>Auditoria estrutural</code> <code>Round-trip</code> <code>Hashing</code> <code>Testes de regressão</code> <code>Logs</code> <code>QA in-game</code>
+<code>Auditoria estrutural</code> <code>Round-trip binário</code> <code>SHA-256</code> <code>Builds reproduzíveis</code> <code>Testes transacionais</code> <code>Testes de regressão</code> <code>Logs</code> <code>QA in-game</code>
 
 > A lista representa ferramentas efetivamente usadas no conjunto dos projetos, não uma arquitetura prometida para todos os jogos. Cada repositório documenta somente o que foi confirmado naquele cliente.
 
