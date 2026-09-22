@@ -52,24 +52,6 @@
   <tr>
     <td width="145" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/nikke-icon-dark.jpg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/nikke-icon-light.jpg" />
-        <img src="./assets/nikke-icon-light.jpg" alt="Ícone monocromático do projeto NIKKE PT-BR" width="105" />
-      </picture>
-    </td>
-    <td>
-      <strong><a href="https://github.com/kacksdev/nikke-ptbr">GODDESS OF VICTORY: NIKKE PT-BR / PC</a></strong><br />
-      <code>v0.1.0 beta</code><br /><br />
-      Cliente validado: <strong>151.8.5</strong>. Base PT-BR para <strong>429.498 / 429.498</strong> unidades únicas, <strong>536.489</strong> ocorrências em <strong>34</strong> tabelas e <strong>2.743</strong> modelos formatados. Instalador gráfico com instalação, verificação, reparo, remoção e rollback aprovados; pacote em <strong>18/18</strong>, executável final em <strong>11/11</strong> e suíte atual em <strong>116/116</strong>. Beta funcional de ampla cobertura, ainda distinta de revisão editorial integral.<br /><br />
-      <a href="https://github.com/kacksdev/nikke-ptbr"><strong>VER O PROJETO →</strong></a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="145" align="center">
-      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/arknights-icon-dark.png" />
         <source media="(prefers-color-scheme: light)" srcset="./assets/arknights-icon-light.png" />
         <img src="./assets/arknights-icon-light.png" alt="Ícone monocromático do projeto Arknights PT-BR" width="105" />
